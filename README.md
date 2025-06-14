@@ -1,16 +1,20 @@
-By following a tutorial from the CodingNepal channel on YouTube, I created
-a customizable AI chatbot built with HTML, CSS, and JavaScript, powered by the free Gemini API. It features real-time messaging, file upload support, an emoji picker, and chat history—all wrapped in a clean, responsive UI.
+Customizable AI Chatbot using Gemini API
+Built by following a tutorial from the CodingNepal YouTube channel, this project is a fully customizable AI-powered chatbot using HTML, CSS, and JavaScript, integrated with the free Gemini API.
 
-Features:
+🔧 Features:
+🤖 AI Responses — Generates natural language replies via the Gemini API
 
-Natural language responses powered by the Gemini API
+✍️ Typing Animation — Simulates real-time response typing
 
-Typing animation for a more realistic experience
+📎 File Upload Support — Allows users to attach files during chat
 
-File upload support for added functionality
+😀 Emoji Picker — Choose emojis to personalize your messages
 
-Integrated emoji picker for expressive messaging
+💬 Persistent Chat History — Maintains conversation between sessions
 
-Toggleable chatbot popup interface
+🧩 Popup Interface — Easily toggle the chatbot in and out of view
 
-Persistent chat history for session continuity
+📱 Responsive UI — Clean, mobile-friendly interface design
+
+🎥 [Watch Demo on YouTube](https://www.youtube.com/watch?v=lpySMg5ZyLw)
+
